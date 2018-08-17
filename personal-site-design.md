@@ -1,6 +1,6 @@
  - What is your site's primary purpose?
 
-The site's primary purpose will be to showcase the work I have done, my blog posts, and make sure that moving between the blogs and the index page is easy. I want the page to have a smooth and simple feel with 
+The site's primary purpose will be to showcase the work I have done, my blog posts, and make sure that moving between the blogs and the index page is easy. I want the page to have a smooth and simple feel with an easy template that is stylised enough to include all of the desired elements of my page.
 
 - Who is your target audience?
 
